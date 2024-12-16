@@ -13,7 +13,7 @@
 [issues badge]:https://img.shields.io/github/issues/NetSPI/Open-LLM-Security-Benchmark.svg
 
 
-[licence]:https://github.com/NetSPI/Open-LLM-Security-Benchmark/blob/master/LICENSE.txt
+[licence]:https://github.com/NetSPI/Open-LLM-Security-Benchmark/blob/master/LICENSE.txt%20
 [stars]:https://github.com/NetSPI/Open-LLM-Security-Benchmark/stargazers
 [forks]:https://github.com/NetSPI/Open-LLM-Security-Benchmark/network
 [issues]:https://github.com/NetSPI/Open-LLM-Security-Benchmark/issues
